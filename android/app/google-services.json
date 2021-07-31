@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1060718822844",
+    "project_id": "flash-chat-adbeb",
+    "storage_bucket": "flash-chat-adbeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060718822844:android:eaec09365e044a1571d7b9",
+        "android_client_info": {
+          "package_name": "co.eeshu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060718822844-bnhqqoodmm4bndu2slobt74hndckh6p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.eeshu.flash_chat",
+            "certificate_hash": "fa72fc4827d40a87606f7e97e3ac542fca95e0cb"
+          }
+        },
+        {
+          "client_id": "1060718822844-20duba09iam6o7nt71dqpot0qq8vkms0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBolDrr49I05xvFz1es7Adg2eW9ckzi7x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060718822844-20duba09iam6o7nt71dqpot0qq8vkms0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
